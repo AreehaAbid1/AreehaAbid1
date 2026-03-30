@@ -13,7 +13,7 @@ C++ | C | Java | SQL | Assembly | HTML | Cisco Packet Tracer
 - 📂 [CS Portfolio](https://github.com/AreehaAbid1/CS-Portfolio)
 
 ## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=AreehaAbid1&show_icons=true&theme=tokyonight&cache_seconds=1800
+https://github-readme-stats.vercel.app/api?username=AreehaAbid1&show_icons=true&theme=radical
 
 ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Areeha%20Abid-blue)](https://linkedin.com/in/areeha-abid)
