@@ -27,14 +27,12 @@
 - 🎥 Creator of **Areeha Codes**, teaching programming concepts in Hindi/Urdu on YouTube
 - 📂 Active CS portfolio with ongoing projects
 
-## 📂 Projects
-
-- [Zombiverse — NASA Space Apps Challenge](https://github.com/AreehaAbid1/Zombiverse-NASA-Hackathon)
-- [Rock Paper Scissors Lizard Spock](https://github.com/AreehaAbid1/rpsls-game-c)
-- [CS Portfolio]((https://github.com/AreehaAbid1/CS-Portfolio)
+## 📌 Projects
+- 🧟 [Zombiverse - NASA Space Apps Challenge](https://github.com/AreehaAbid1/Zombiverse-NASA-Hackathon)
+- 🎮 [Rock Paper Scissors Lizard Spock](https://github.com/AreehaAbid1/rpsls-game-c)
+- 📂 [CS Portfolio](https://github.com/AreehaAbid1/CS-Portfolio)
 
 ## 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-link](https://linkedin.com/in/areeha-abid))
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:areehaabid2024@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([your-youtube-link](https://youtube.com/@areehacodes))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Areeha%20Abid-blue)](https://linkedin.com/in/areeha-abid)
+[![Email](https://img.shields.io/badge/Email-areehaabid2024@gmail.com-red)](mailto:areehaabid2024@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Areeha%20Codes-red)](https://youtube.com/@areehacodes)
