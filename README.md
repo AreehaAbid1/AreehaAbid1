@@ -28,7 +28,8 @@
 - 📂 Active CS portfolio with ongoing projects
 
 ## 📌 Projects
-- 🧟 [Zombiverse - NASA Space Apps Challenge](https://github.com/AreehaAbid1/Zombiverse-NASA-Hackathon)
+- 🌊 [Trip To The Trenches - NASA Space Apps Challenge 2026](https://github.com/AreehaAbid1/Trip-To-The-Trenches)
+- 🧟 [Zombiverse - NASA Space Apps Challenge 2025](https://github.com/AreehaAbid1/Zombiverse-NASA-Hackathon)
 - 🎮 [Rock Paper Scissors Lizard Spock](https://github.com/AreehaAbid1/rock-paper-scissor-lizard-spock-c)
 - 📂 [CS Portfolio](https://github.com/AreehaAbid1/CS-Portfolio)
 
